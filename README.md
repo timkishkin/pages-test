@@ -1,2 +1,2 @@
 # pages-test
-GitHub pages test
+GitHub pages test - readme
